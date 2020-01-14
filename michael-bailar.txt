@@ -97,5 +97,5 @@ Stretch Questions
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default
         <div>, <h1>, <section> || <span>, <img> || <button>
     5. In your own words, explain the box model. What is the fix for the box model?
-        it's a box. well, it just means that an element has a few set border attributes you can apply styles to. They are arranged like a box with each part being a different 'layer' to the box. You can edit the margin, border, padding, and the sizes of each of these. if you don't specify which to edit, the center 'box' with be styled.
+        it's a box. well, it just means that an element has a few set border attributes you can apply styles to. They are arranged like a box with each part being a different 'layer' to the box. You can edit the margin, border, padding, respectively, and the sizes of each of these. if you don't specify which to edit, the center 'box' with be styled.
         You can use the box-sizing property to limit the element's size including the borders (border-box) or not including the borders (content-box). This makes it a little easier to size elements within other elements. 
